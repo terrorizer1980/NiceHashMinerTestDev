@@ -1,3 +1,4 @@
 # NiceHashMinerLegacyTestDev
 
-Version 1.9.1.6 built from https://github.com/nicehash/NiceHashMinerLegacy/commit/13a868c17c9ff05c7cf2bc684608447e0a39d803
+Version 1.9.2.2 built from https://github.com/nicehash/NiceHashMinerLegacy/commit/3921cda848048fd8bfa2a0cd1b28122885e5b3ff
+Build flags TESTNETDEV version changed from (1.9.1.2 to 1.9.2.2)
